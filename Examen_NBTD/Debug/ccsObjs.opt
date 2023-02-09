@@ -1,0 +1,1 @@
+"./SPI.obj" "./main.obj" "./tm4c123gh6pm_startup_ccs.obj" "./ADC/ADC.obj" "./GPIO/GPIO.obj" "./PLL/PLL.obj" "./PWM/PWM.obj" "./SYSTICK/SYSTICK.obj" "./UART/UART.obj" "../tm4c123gh6pm.cmd" -llibc.a 
